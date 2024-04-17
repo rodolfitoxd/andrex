@@ -1,0 +1,104 @@
+
+.creadores{
+    
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 2rem;
+  
+}
+.introduccion{
+    color: white;
+}
+
+
+.titulo{
+    text-align: center;
+}
+    
+
+.humo{
+    border:2px solid rgb(235, 163, 29);
+    border-radius: 2rem;
+    padding: 4rem;
+    margin: 1rem;
+    width: 20rem;
+    height: 37rem;
+
+}
+.neon{ 
+    border:2px solid purple;
+    border-radius: 2rem;
+    padding: 4rem;
+    margin: 1rem;
+    width: 20rem;
+    height: 37rem;  
+ }
+.video{
+    border:2px solid rgb(0, 195, 255);
+    border-radius: 2rem;
+    padding: 4rem;
+    margin: 1rem;
+    width: 20rem;
+    height: 37rem;  
+}
+
+
+
+.power{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-template-rows: repeat(1, 2fr);
+    text-align: center;
+}
+
+
+.formularioo{
+    background-image: url(https://static.wikia.nocookie.net/infamous/images/5/52/DUPseal-HD.jpg/revision/latest?cb=20140411233916);
+    border-radius: 2rem;   
+    background-position: center;
+    background-size: cover;
+    color:orangered
+}
+
+.legend{
+    text-align: center;
+    color:white;
+    display: block;
+    font-weight: 800;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+}
+.formulario{
+     display: grid;
+     grid-template-columns: repeat(2, 1fr);
+     grid-template-rows: repeat(4, auto);
+}
+
+.form{
+    padding: 4rem;
+    margin: 1rem;
+    width: 1rem;
+    height: 1rem;
+}
+
+
+body{
+    background-image: url(https://31.media.tumblr.com/5d85dff1b184fd3a87c8f6cc0c550d72/tumblr_ndnqht6U2G1tm29ojo1_500.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+
+.piepagina{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 2rem;
+    border: 5px solid white;
+    
+
+}
+
